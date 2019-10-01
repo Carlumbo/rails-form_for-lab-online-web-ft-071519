@@ -1,9 +1,9 @@
-class CreateStudentClasses < ActiveRecord::Migration 
-  def change 
+class CreateStudentClasses < ActiveRecord::Migration
+  def change
     create_table :student_classes do |t|
       t.string :title
       t.integer :room_number
-      
-    end 
-  end 
+
+    end
+  end
 end 
