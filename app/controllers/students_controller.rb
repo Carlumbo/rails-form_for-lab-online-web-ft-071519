@@ -1,4 +1,4 @@
-class StudentsController < ApplicaionController
+class StudentsController < ApplicationController
 
 
 
