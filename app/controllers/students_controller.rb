@@ -1,19 +1,19 @@
 class StudentsController < ApplicationController
 
-  def show 
-  end 
+  def show
+  end
 
-  def new 
-  end 
+  def new
+  end
 
-  def edit 
-  end 
+  def edit
+  end
 
   def create
-  end 
+  end
 
-  def update 
-  end 
+  def update
+  end
 
 
 
