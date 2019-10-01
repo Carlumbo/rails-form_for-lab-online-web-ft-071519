@@ -1,4 +1,4 @@
-class SchoolClassesController < ApplicaionController
+class SchoolClassController < ApplicaionController
 
 
 end
