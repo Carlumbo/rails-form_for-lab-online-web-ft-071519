@@ -26,9 +26,9 @@ class StudentsController < ApplicationController
 
   private student_params
   params.require(:student).permit!
-  end 
+  end
 
-end 
+end
 
 
 
